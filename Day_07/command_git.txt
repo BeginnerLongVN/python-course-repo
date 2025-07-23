@@ -1,0 +1,17 @@
+List command to using git 
+1. To start a git repo on computer: 
+	- git init 
+	- clone repo appeared on GitHub: git clone <URL>
+2. Basic working things with git on local: 
+	- git status: check for status of repo: new file in local but not appeared in .git file
+	- git add <file>/<.> to add all the changes
+	- git commit -m "description about the git pushing code or repo" 
+	- git log: check for pushing or changing history
+3. Push code to remote(GitHub) 
+	- git remote -v: show the using git
+	- git remote add origin <URL>
+	- git push -u origin main: push main to remote 
+4. Pull to integrate with remote: 
+	- git fetch origin : download to new data (none merge)
+	- git pull origin main: download and merge main
+	
