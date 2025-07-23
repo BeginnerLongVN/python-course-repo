@@ -14,4 +14,3 @@ List command to using git
 4. Pull to integrate with remote: 
 	- git fetch origin : download to new data (none merge)
 	- git pull origin main: download and merge main
-	
