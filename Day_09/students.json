@@ -1,0 +1,23 @@
+[
+    {
+        "id": "S001",
+        "name": "Long",
+        "courses": [
+            {
+                "subject": "Math",
+                "score": "9"
+            },
+            {
+                "subject": "Literature",
+                "score": "7.5"
+            }
+        ],
+        "gpa": 8.25
+    },
+    {
+        "id": "S002",
+        "name": "Khanh",
+        "courses": [],
+        "gpa": 0.0
+    }
+]
